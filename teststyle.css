@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+  }
+  
+  main {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgeN696FZAxNniKGJ6fdMosF815pWjVsLTCQ&usqp=CAU');
+    font-family: 'Chivo', sans-serif;
+  }
+
+  h1 {
+    font-size: 50px;
+    margin: 10px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+  
+  header {
+    max-width: 70%;
+    margin: auto;
+    background: lightgoldenrodyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px goldenrod;
+
+  }
+  
+  #img-div {
+    width: 70%;
+    margin: auto;
+    background: lightgoldenrodyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+  }
+  
+  img { 
+    border: 1px solid black;
+    margin: 0;
+    max-width: 70%;
+  }
+
+  #img-caption h4 {
+    margin: 0;
+    padding: 4px;
+  }
+  
+  #tribute-info {
+    width: 70%;
+    margin: auto;
+    background: lightgoldenrodyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    line-height: 2.5;
+  }
+
+  ul {
+    max-width: 700px;
+  }
+
+  #img-caption-2 h4 {
+      margin: 0;
+      padding: 0px;
+  }
+
+  #quote {
+      max-width: 700px;
+  }
+
+  blockquote {
+      font-size: 12px;
+      font-style: italic;
+  }
+  
+  #tribute-footer {
+    padding-top: 45px;
+    width: 70%;
+    margin: auto;
+    background: lightgoldenrodyellow;
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
